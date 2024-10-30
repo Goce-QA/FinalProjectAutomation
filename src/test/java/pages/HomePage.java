@@ -1,3 +1,5 @@
+//Thread Sleep is used instead of Implicit or Explicit Wait because of the testing web page.
+
 package pages;
 
 import org.openqa.selenium.By;
