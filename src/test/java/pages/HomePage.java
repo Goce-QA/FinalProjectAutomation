@@ -1,4 +1,4 @@
-//Thread Sleep is used instead of Implicit or Explicit Wait because of the testing web page.
+//Thread Sleep is used instead of Implicit or Explicit Wait because of the testing web page and the task's purpose.
 
 package pages;
 
